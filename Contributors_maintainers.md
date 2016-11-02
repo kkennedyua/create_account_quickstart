@@ -2,8 +2,8 @@
 
 ## CyVerse Maintainer: 
 
-**Name:**
-**Email:**
+**Name:** Kathleen Kennedy
+**Email:** kathleen@cyverse.org
 
 ## We would like to thank the following contributors
 
